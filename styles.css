@@ -1,23 +1,22 @@
 *{
     margin: 0;
     box-sizing: border-box;
+
 }
 #ques{
     width: 100%;
     height: 8rem;
     border-radius: 5rem;
     background-color: #2d40599a;
-    border:none;
     padding:4rem;
     font-size:2.4rem;
     color:rgb(204, 200, 200) ;
     font-family: sans-serif;
+    transition: all .3s;
 
 
 }
-#ques:focus{
-    border-radius: 5rem;
-       
+#ques:focus{ 
     border: 5px solid rgba(95, 236, 165, 0.781);
 }
 input[type=text]:focus {
