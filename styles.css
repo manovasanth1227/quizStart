@@ -58,6 +58,7 @@ label{
     border:1px solid  green;
     background-color: #bfdcae77;
     font-size: 1.3rem;
+    color: rgb(15, 51, 104);
 }
 .text:not(:last-child){
     margin-right: 1rem;
